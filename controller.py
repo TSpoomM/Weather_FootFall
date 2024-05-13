@@ -8,8 +8,8 @@ from swagger_server import models
 
 # Database configuration
 DB_HOST = 'db'
-DB_USER = 'username'
-DB_PASSWD = 'password'
+DB_USER = 'b6510545497'
+DB_PASSWD = 'tanapoom.sr@ku.th'
 DB_NAME = 'group03'
 
 # Set up a connection pool
